@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/EntCom-Task2/static/css/main.05e87406.chunk.css",
+    "main.css": "/EntCom-Task2/static/css/main.144155be.chunk.css",
     "main.js": "/EntCom-Task2/static/js/main.f90d7729.chunk.js",
     "main.js.map": "/EntCom-Task2/static/js/main.f90d7729.chunk.js.map",
     "runtime-main.js": "/EntCom-Task2/static/js/runtime-main.d7f1038d.js",
@@ -8,13 +8,13 @@
     "static/js/2.152c704c.chunk.js": "/EntCom-Task2/static/js/2.152c704c.chunk.js",
     "static/js/2.152c704c.chunk.js.map": "/EntCom-Task2/static/js/2.152c704c.chunk.js.map",
     "index.html": "/EntCom-Task2/index.html",
-    "static/css/main.05e87406.chunk.css.map": "/EntCom-Task2/static/css/main.05e87406.chunk.css.map",
+    "static/css/main.144155be.chunk.css.map": "/EntCom-Task2/static/css/main.144155be.chunk.css.map",
     "static/js/2.152c704c.chunk.js.LICENSE.txt": "/EntCom-Task2/static/js/2.152c704c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d7f1038d.js",
     "static/js/2.152c704c.chunk.js",
-    "static/css/main.05e87406.chunk.css",
+    "static/css/main.144155be.chunk.css",
     "static/js/main.f90d7729.chunk.js"
   ]
 }
